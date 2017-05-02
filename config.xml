@@ -2,7 +2,7 @@
 
  <widget xmlns ="http://wwww.w3.org/ns/widgets"
    xmlns:gap="http://phonegap.com/ns/1.0"
-   id ="com.phonegap.example2"
+   id ="com.phonegap.example6"
    version ="1.0.0">
    
    <name> app5 Advertencias del Dispositivo </name>
@@ -12,7 +12,7 @@
    </description>
    
    <author href="https://build.phonegap.com" email="luna.salazar.3h@gmail.com">
-   Ruth Luna Salazar 4H
+   Angel Miranda Genis 4H
    </author>
    
    <!-- Personaliza la aplicacion y plataforma -->
